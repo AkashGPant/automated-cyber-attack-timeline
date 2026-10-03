@@ -1,0 +1,5 @@
+TimeCreated,EventID,Computer,TargetUserName,Message
+2026-10-04T01:15:03.944392,4624,DESKTOP-01,admin,Successful login
+2026-10-04T01:17:03.944392,4625,DESKTOP-01,admin,Failed login
+2026-10-04T01:18:03.944392,4625,DESKTOP-01,admin,Failed login
+2026-10-04T01:19:03.944392,4624,DESKTOP-01,admin,Successful login

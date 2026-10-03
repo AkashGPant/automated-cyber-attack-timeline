@@ -1,0 +1,4 @@
+UtcTime,EventID,Computer,User,Image,CommandLine,TargetFilename,SourceIp,DestinationIp,Protocol
+2026-10-04T01:20:03.944392,1,DESKTOP-01,admin,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,powershell.exe -ExecutionPolicy Bypass -enc JABz...,,,,
+2026-10-04T01:25:03.944392,11,DESKTOP-01,admin,powershell.exe,,C:\Temp\malicious.exe,,,
+2026-10-04T01:27:03.944392,3,DESKTOP-01,admin,C:\Temp\malicious.exe,,,192.168.1.50,185.10.10.20,tcp
